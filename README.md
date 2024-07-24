@@ -1,7 +1,6 @@
 ## Hellos 👋
 
-- 🔭 I’m currently studying cse in MIT, after doing my schooling from La Martiniere for Boys, Kolkata.
-- 👯 I’m also working on quite a few robotics projects, being skilled in autocad, fusion 360 and altium.
-- 📫 How to reach me: https://www.instagram.com/_adityadutta/
+- 🔭 I’m currently studying CSE at MIT, after doing my schooling at La Martiniere for Boys, Kolkata.
+- 👯 I’m also working on quite a few robotics projects, being skilled in AutoCAD, Fusion 360, and Altium.
+- 📫 How to reach me: [Instagram](https://www.instagram.com/_adityadutta/)
 - 😄 Pronouns: Attack Helicopter
-
